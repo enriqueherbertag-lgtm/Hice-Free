@@ -1,5 +1,7 @@
 # Hice-Free
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 **Sachet de hielo instantáneo desechable. Activa con un click, congela en segundos.**
 
 Hice-Free es un sachet del tamaño de una pastilla (4×4×2 cm) que contiene un gel térmico y un serpentín de cobre. Al presionar el botón central (estilo cigarro click), se libera gas CO₂ que expande y enfría el serpentín, congelando el gel en 10–20 segundos. El resultado es una pastilla de hielo sólida, lista para usar.
