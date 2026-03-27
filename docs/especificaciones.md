@@ -36,6 +36,18 @@
 | Gel térmico | FDA / EU (no tóxico) |
 | Cápsula de gas | DOT / UN (transporte de gas presurizado) |
 
+
+## Presión y resistencia
+
+| Parámetro | Valor |
+|-----------|-------|
+| Presión de trabajo estimada | 4–6 bar (CO₂) + 4 bar (expansión) = 8–10 bar |
+| Resistencia a la tracción del sachet | > 50 MPa |
+| Espesor de pared | 0.3–0.5 mm (multicapa) |
+| Refuerzo de sellados | Termofusión ≥ 5 mm |
+| Válvula de alivio | Opcional, se activa > 8 bar |
+
+
 ## Referencias
 
 - Cápsulas de CO₂: iSi, Sodastream, Liss
