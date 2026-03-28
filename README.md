@@ -72,3 +72,65 @@ Hice-Free es un sachet del tamaño de una pastilla (4×4×2 cm) que contiene un 
 
 ## Estructura del repositorio
 
+
+Hice-Free/
+├── README.md
+├── LICENSE
+├── CHANGELOG.md
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── SECURITY.md
+├── business/
+│ ├── modelo-negocio.md
+│ └── costos.md
+├── docs/
+│ ├── especificaciones.md
+│ ├── principio-funcionamiento.md
+│ └── pruebas.md
+├── hardware/
+│ ├── gel-termico.md
+│ ├── capsula-gas.md
+│ └── mecanismo-boton.md
+└── pruebas/
+└── resultados.md
+
+
+
+---
+
+## Proyectos relacionados
+
+- **HidroFix** — seguridad para celdas de hidrógeno  
+  [Repositorio](https://github.com/enriqueherbertag-lgtm/Hidrofix)
+
+- **ShieldAir** — torres de producción de oxígeno (urbanas y marcianas)  
+  [Urban](https://github.com/enriqueherbertag-lgtm/ShieldAir-Urban) | [Mars](https://github.com/enriqueherbertag-lgtm/ShieldAir-Mars)
+
+- **Motor de Vacío** — motor térmico por presión diferencial  
+  [Repositorio](https://github.com/enriqueherbertag-lgtm/Motor-de-Vacio)
+
+---
+
+## Licencia
+
+**CC BY-NC 4.0 (Attribution-NonCommercial 4.0 International)**
+
+Este proyecto está liberado bajo una licencia Creative Commons que permite:
+- ✅ Compartir y modificar
+- ✅ Uso personal, investigación, prototipos
+- ❌ **No permite uso comercial sin autorización expresa**
+
+**¿Quieres usar este diseño comercialmente?**  
+Contacta para una licencia comercial: **eaguayo@migst.cl**
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+---
+
+## Autor
+
+**Enrique Aguayo H.**  
+Investigador independiente, Mackiber Labs  
+Contacto: eaguayo@migst.cl  
+ORCID: 0009-0004-4615-6825  
+GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
