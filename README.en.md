@@ -1,5 +1,6 @@
 # Hice-Free: Instant ice in 10 seconds
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19391128.svg)](https://doi.org/10.5281/zenodo.19391128)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![ES](https://img.shields.io/badge/Spanish-version-green.svg)](./README.md)
 
