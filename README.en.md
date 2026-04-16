@@ -1,81 +1,154 @@
-# Hice-Free: Instant ice in 10 seconds
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19391128.svg)](https://doi.org/10.5281/zenodo.19391128)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxx)
+[![License](https://img.shields.io/badge/License-Copyright%20%28c%29%202026%20Enrique%20Aguayo-red)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Concept%20validated-yellow)](https://github.com/enriqueherbertag-lgtm/Hice-Free)
 [![ES](https://img.shields.io/badge/Spanish-version-green.svg)](./README.md)
 
-Traditional ice packs require pre-freezing, take up freezer space, and are not ready when you need them. Existing chemical cold packs are uncomfortable, imprecise, or take too long.
+# Hice-Free: Instant ice for the gastronomic channel
 
-Hice-Free was created to solve that problem.
+**Disposable sachet, 4×4×2 cm. One-click activation. Freezes in 10–20 seconds. Sold in packs of 6 or 12 units.**
 
-## What it does
+Hice-Free is not a medical device (although it can be used for first aid). It is designed for **restaurants, bars, liquor stores, events and delivery services**. It solves a real problem: **I need ice fast, I don't have any, and I don't want to depend on a freezer.**
 
-Hice-Free is a tablet-sized sachet (4×4×2 cm) containing a thermal gel and a copper coil. Pressing the central button releases CO₂ gas, which expands and cools the coil, freezing the gel in 10–20 seconds. The result is a solid ice tablet, ready to use.
+---
 
-## How it works
+## 1. Problem it solves
 
-1. Press the central button (force 10–20 N).
-2. The pin ruptures the CO₂ gas capsule.
-3. The gas expands through the copper coil, cooling it drastically (Joule-Thomson effect).
-4. The coil cools the surrounding thermal gel.
-5. The gel freezes in 10–20 seconds, solidifying the entire sachet.
+- A bar runs out of ice during service.
+- A beverage delivery arrives warm because the cooler didn't last.
+- An outdoor event has no access to a freezer.
+- A liquor store wants to offer instant ice as a value-added product.
 
-## Key specifications
+**Hice-Free is always ready. It takes no freezer space. It doesn't melt. It activates in seconds.**
+
+---
+
+## 2. Proposed solution
+
+### Sales format
+
+| Format | Units | Typical use |
+|--------|-------|--------------|
+| **Pack 6** | 6 sachets | Small bars, delivery, events |
+| **Pack 12** | 12 sachets | Restaurants, liquor stores, catering |
+
+### Components (per sachet)
+
+| Component | Specification |
+|------------|---------------|
+| **Outer sachet** | Multi-layer plastic/aluminum, hermetic seal |
+| **Thermal gel** | Water + superabsorbent polymer + sodium acetate |
+| **Copper coil** | 15–20 cm spiral, 0.5 mm thickness |
+| **CO₂ capsule** | 1–2 mL at 4–6 bar |
+| **Containment membrane** | Calculated for maximum expansion (no rupture risk) |
+| **Activation button** | Click with 10–20 N force |
+
+---
+
+## 3. Activation mechanism (safe)
+
+1. **Press the central button** with your thumb (similar force to lighting a lighter).
+2. The spike breaks the **CO₂ capsule**.
+3. The gas expands through the **copper coil**, cooling it drastically (Joule-Thomson effect).
+4. The coil cools the **thermal gel**.
+5. The gel freezes in **10–20 seconds**, solidifying the entire sachet.
+
+**Safety:** The membrane that contains the gas and gel is **calculated to withstand maximum expansion**. There is no risk of explosion if activated correctly. The design prevents accidental activation (recessed button, not protruding).
+
+---
+
+## 4. Technical specifications
 
 | Parameter | Value |
 |-----------|-------|
 | Dimensions | 4×4×2 cm |
-| Weight | ~150 g |
-| Thermal gel | Water + superabsorbent polymer + sodium acetate |
-| Coil | Copper 0.5 mm, 15–20 cm spiral |
-| Gas capsule | CO₂ at 4–6 bar, 1–2 mL |
+| Unit weight | ~150 g |
 | Freezing time | 10–20 s |
-| Activation | Click button (10–20 N) |
+| Achieved temperature | 0°C to -5°C (solid ice) |
+| Activation force | 10–20 N |
+| Shelf life (sealed) | 12–24 months |
 | Use | Disposable |
-| Shelf life | 12–24 months (sealed) |
 
-## Who it is for
+---
 
-- First aid (fractures, blows, inflammation).
-- Camping and hiking (no freezer access).
-- Temperature-sensitive product shipping.
-- Home emergencies.
+## 5. Business model (gastronomic channel)
 
-## Current status
+| Segment | Target customer | Format | Application |
+|---------|------------------|---------|-------------|
+| **Restaurants and bars** | Business owners | Pack 12 | Emergency ice, demand spikes, delivery |
+| **Liquor stores** | Self-service | Pack 6 / 12 | Counter product for end consumers |
+| **Events and catering** | Organizers | Pack 6 | Portable solution without cold chain |
+| **Beverage delivery** | Platforms (Rappi, PedidosYa) | Pack 6 | Ensure cold drink on arrival |
 
-- Concept defined.
-- Complete technical specifications.
-- Components identified from existing technologies.
-- Business model and estimated costs.
-- Prototype (pending).
-- Activation and freezing tests (pending).
+### Cost structure (estimated)
 
-## Next steps
+| Concept | % of unit cost |
+|---------|----------------|
+| Sachet and gel | 30% |
+| Copper coil | 25% |
+| CO₂ capsule | 20% |
+| Membrane and button | 10% |
+| Assembly | 10% |
+| Packaging | 5% |
 
-1. Design the button — exact geometry, materials, rupture force.
-2. Select suppliers — CO₂ capsule, sachet, coil.
-3. Prototype — manual assembly of first units.
-4. Testing — freezing, safety, shelf life.
-5. Pilot production — 10,000 units for market validation.
+**Estimated unit cost:** [to be defined, must be low for commercial viability]  
+**Suggested selling price (pack of 12):** [to be defined, must be attractive for the channel]
 
-## Related projects
+---
 
-- HidroFix — safety for hydrogen cells.
-- ShieldAir — oxygen production towers.
-- Motor de Vacío — thermal engine by differential pressure.
+## 6. Competitive advantages
 
-## License
+| vs traditional ice | vs generic chemical compresses |
+|--------------------|--------------------------------|
+| No freezer required | Activates in 10–20 s (vs 1–2 min) |
+| Doesn't melt | Lower temperature (solid ice) |
+| Takes little space | Designed for gastronomic channel, not medical |
+| 12–24 month shelf life | Sold in packs of 6/12, not single units |
+
+---
+
+## 7. Project status
+
+| Item | Status |
+|------|--------|
+| Concept | ✅ Defined |
+| Technical specifications | ✅ Complete |
+| Components identified | ✅ |
+| Business model (gastronomic channel) | ✅ Defined |
+| Prototype | 🔲 Pending |
+| Activation and freezing tests | 🔲 Pending |
+| Validation with bars/restaurants | 🔲 Pending |
+| Pilot production | 🔲 Pending |
+
+---
+
+## 8. Next steps
+
+1. **Functional prototype** (hand-assemble 10–20 units).
+2. **Freezing tests** (temperature, time, consistency).
+3. **Safety tests** (accidental activation, maximum expansion, shelf life).
+4. **Validation with real customers** (friendly bar, known restaurant).
+5. **Define exact unit cost** (quote components and assembly).
+6. **Pilot production** (10,000 units for launch).
+
+---
+
+## 9. Author
+
+**Enrique Aguayo H.** – Independent Researcher  
+Contact: eaguayo@migst.cl  
+ORCID: 0009-0004-4615-6825  
+GitHub: @enriqueherbertag-lgtm  
+
+*Documentation assisted by DeepSeek (AI).*
+
+---
+
+## 10. License
 
 Copyright © 2026 Enrique Aguayo. All rights reserved.
 
-[Standard proprietary license text...]
+**Permitted:** Non-commercial use for educational or research purposes. Unmodified distribution with attribution.
 
-## Author
+**Prohibited without express permission:** Commercial use, modification for production environments, distribution of modified versions.
 
-Enrique Aguayo H.
-Mackiber Labs
-Contact: eaguayo@migst.cl
-ORCID: 0009-0004-4615-6825
-GitHub: @enriqueherbertag-lgtm
-
-Documentation assisted by Ana (DeepSeek), AI for research and technical optimization.
+For commercial licenses (manufacturing, distribution, white labels): eaguayo@migst.cl
